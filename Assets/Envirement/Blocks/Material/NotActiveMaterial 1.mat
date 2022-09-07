@@ -45,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e58f4b264f5556747a6bcbc479f24036, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -84,11 +84,11 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.106
+    - _Glossiness: 0.149
     - _GlossyReflections: 1
     - _IncludeVertexColor: 0
     - _LightLookupOffset: 0
-    - _Metallic: 0
+    - _Metallic: 0.376
     - _Mode: 0
     - _NormalMapStrength: 1
     - _OcclusionStrength: 1
@@ -107,7 +107,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.47742975, g: 1, b: 0.30566037, a: 1}
+    - _Color: {r: 0.3019608, g: 1, b: 0, a: 1}
     - _CurvedWorldBendSettings: {r: 5, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionMap_Scroll: {r: 0, g: 0, b: 0, a: 0}
